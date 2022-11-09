@@ -1,0 +1,127 @@
+
+.imgbg{
+  
+  
+  background-attachment: fixed;
+  background-image: cover;
+  width: 100%;
+  height: 700px;
+}
+
+#img{
+  width: 120px;
+  height: auto;
+}
+
+
+.NewFontTitle{
+  font-family: "Akronim";
+  color: black;
+  font-size: 2em;
+
+}
+
+.fast{
+  font-family: "Akronim";
+  color: black;
+  font-size: 20px;
+}
+
+
+.btn-sytle{
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+  padding: 5px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-primary:hover{
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+.carousel img {
+    height: 740px;
+}
+@media only screen and (max-width: 800px){
+  .carousel img {
+    height: 370px;
+  }
+}
+
+
+.textvist{
+  font-family: "Akronim";
+  font-size: 4vw;
+  color: orange; 
+  margin-bottom: 10%;
+}
+.textvist1{
+  color: orange;
+  font-family: "Akronim";
+  font-size: 1.5vw;
+  font-weight: bold;
+  letter-spacing: 2px;
+  line-height: 2px;
+  margin-bottom: 10%;
+  
+}
+
+.btn-style{
+  font-family: "Akronim";
+  letter-spacing: 1px;
+  border-radius: 20px;
+}
+.btn-style:hover{
+  color: yellow;
+}
+
+
+
+
+.wallpaper{
+  height: 712px;
+}
+
+.ourservices{
+  padding: 100px 0px 60px;
+  height: 700px;
+}
+.ourservices h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+  font-family: "Akronim";
+}
+.ourservices p{
+  color: black;
+  font-size: 1em;
+  font-weight: bold; 
+}
+.rowsetting{
+  margin: 80px 0px !important;
+}
+
+.rowsetting h2{
+  color: black !important;
+  font-family: "Akronim";
+  font-weight: bold;
+}
+
+.imgsetting{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.fa-home{
+  margin-top: 20px;
+}
+.fa-cc-visa{
+  margin-top: 24px;
+}
+.fa-location-arrow{
+ margin-top: 20px;
+}
